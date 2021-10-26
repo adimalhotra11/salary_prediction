@@ -7,7 +7,7 @@ Check this link for a tutorial on scrapping using selenium - https://towardsdata
 Data Scrapping from Glassdoor.com using selenium package for Python 3.  
 
 
-*Comparing Model Performance*
+*Comparing Model Performance*   
 The Random Forest model proves to be most suitable.  
 
 Random Forest : MAE = 14.29. 
