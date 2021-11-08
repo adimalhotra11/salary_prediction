@@ -10,7 +10,8 @@ Data Scrapping from Glassdoor.com using selenium package for Python 3.
 *Comparing Model Performance*   
 The Random Forest model proves to be most suitable.  
 
-Random Forest : MAE = 14.29.   
+XGBoost Regressor : MAE = 11.08
+Random Forest : MAE = 16.72.   
 Linear Regression: MAE = 20.53.   
 Ridge Regression: MAE = 22.11         
   
